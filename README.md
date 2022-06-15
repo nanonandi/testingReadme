@@ -1,4 +1,4 @@
-<h1 id="test">Probando segundo</h1>
+<h1 id="test54">Probando segundo</h1>
 
 bnla
 a
@@ -198,4 +198,4 @@ ge
 rgergerg
 
 
-[a](#test)
+[a](#test54)
